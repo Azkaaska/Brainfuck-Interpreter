@@ -15,8 +15,5 @@ Cukup ketik command itu di command line dan kamu dapat melihat cara pemakaian co
 Tenang saja, nama command tersebut ditentukan dari nama file executable-nya itu sendiri, jadi kamu cukup mengganti nama file tersebut menjadi apa saja yang kamu inginkan.
 Sebagai contoh, jika kamu mau nama commandnya menjadi `bf`, kamu dapat mengganti nama `brainf.exe` menjadi `bf.exe`.
 
-#### Kok penjelasannya masih pakai `brainf` sih?
-Ya itu karena saya belum bisa buat penjelasannya menyesuaikan nama filenya, jadi tunggu untuk update kedepannya!
-
 #### Brainfuck apaan dah???
 Liat Google coy, gampang brainfuck tuh cuman ada 8 command, harus dicoba pelajarin
